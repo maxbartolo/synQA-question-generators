@@ -11,6 +11,8 @@ There are 3 models available:
 
 For more information on the generative models, see [Improving Question Answering Model Robustness with Synthetic Adversarial Data Generation](https://arxiv.org/abs/2104.08678).
 
+If you are just looking for data generated using these models, see https://github.com/maxbartolo/improving-qa-model-robustness.
+
 ## Installation Instructions
 
 ```bash
